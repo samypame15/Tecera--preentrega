@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+body {
+  background-color: rgb(245, 221, 224);
+  color: rgb(17, 11, 23);
+}
+
+.header {
+  background-color: #e1a7c6;
+  color: var(--clr-white);
+  padding-block: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+}
+
+h5 {
+  font-size: 15px;
+}
+
+p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  color: blueviolet;
+  font-size: 22px;
+}
+
+.title {
+  color: blueviolet;
+  text-align: center;
+}
+
+.title2 {
+  color: rgb(255, 80, 106);
+  text-align: center;
+}
+
+.title3 {
+  color: rgb(255, 80, 106);
+  text-align: center;
+}
+
+#productos {
+  text-align: center;
+  justify-content: center;
+}
+
+#carrito {
+  text-align: center;
+}
+
+.total {
+  text-align: center;
+}
+
+.footer {
+  background-color: #e1a7c6;
+  color: blueviolet;
+  padding-block: 2rem;
+  text-align: center;
+  font-size: 28px;
+}
